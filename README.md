@@ -25,9 +25,11 @@ A command-line Blackjack game developed in Python, simulating a multi-round inte
    git clone https://github.com/sujaydhulipudi/Blackjack-Game-using-Python.git
 
 2. Navigate to the project folder:
+   ```bash
    cd blackjack-python
 
 3. Run the game:
+   ```bash
    python blackjack.py
 
 ## 🧠 What I Learned
